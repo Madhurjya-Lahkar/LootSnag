@@ -21,7 +21,7 @@ LootSnag watches Epic, Steam, and a bunch of other PC game stores and posts aler
 Everything it pulls from is a free/public API — no paid subscriptions needed. RAWG is the one optional exception (fallback images), and the bot works perfectly fine without it.
 
 ---
-
+<img src="./assets/banner.png" alt="LootSnag Banner" />
 ## What it does
 
 - Posts alerts when games go free (Epic weekly drops, Steam free weekends)
