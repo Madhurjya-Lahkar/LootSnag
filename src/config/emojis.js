@@ -1,0 +1,27 @@
+const E = {
+  free:      '🎮',
+  deal:      '🏷️',
+  search:    '🔍',
+  wishlist:  '⭐',
+  price:     '💰',
+  discount:  '📉',
+  platform:  '🖥️',
+  timer:     '⏳',
+  check:     '✅',
+  cross:     '❌',
+  warning:   '⚠️',
+  stats:     '📊',
+  settings:  '⚙️',
+  log:       '📋',
+  ping:      '🏓',
+  store:     '🏪',
+  currency:  '💱',
+  channel:   '📢',
+  owner:     '👑',
+  cache:     '🗃️',
+  cron:      '🔄',
+  up:        '🟢',
+  down:      '🔴',
+};
+
+export default E;
